@@ -1,0 +1,6 @@
+{
+  "name": "AgriTech Smart Farming Management System",
+  "description": "Full-stack smart farming platform integrating crop monitoring, soil health analysis, precision weather & pest forecasting, agricultural marketplace, expert consultations, and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
